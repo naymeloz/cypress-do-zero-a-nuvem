@@ -70,7 +70,7 @@ describe('Central de Atendimento ao Cliente TAT', () => {
 
   it('envia o formuário com sucesso usando um comando customizado', () => {
     const data = {
-      firstName: 'Nay',
+      firstName: 'Nayara',
       lastName: 'Santos',
       email: 'nayara@gmail.com',
       text: 'Teste.'
