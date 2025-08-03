@@ -68,7 +68,7 @@ describe('Central de Atendimento ao Cliente TAT', () => {
 
   })
 
-  it.only('envia o formuário com sucesso usando um comando customizado', () => {
+  it('envia o formuário com sucesso usando um comando customizado', () => {
     const data = {
       firstName: 'Nay',
       lastName: 'Santos',
